@@ -1,10 +1,10 @@
 /**
  * 
  */
-package com.adminLogin.controller;
+package com.mitra.java.adminLogin.controller;
 
-import com.adminLogin.model.AdminLoginBean;
-import com.adminLogin.service.AdminLoginService;
+import com.mitra.java.adminLogin.model.*;
+import com.mitra.java.adminLogin.service.*;
 
 /**
  * @author Imransha
@@ -13,7 +13,6 @@ import com.adminLogin.service.AdminLoginService;
 public class AdminLoginController implements AdminLoginService {
 
 	public AdminLoginBean connect(String name, String pwd, String ipaddress) {
-		// TODO Auto-generated method stub
 		return null;
 	}
 

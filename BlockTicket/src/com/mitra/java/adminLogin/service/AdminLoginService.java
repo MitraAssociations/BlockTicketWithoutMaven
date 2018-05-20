@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.adminLogin.service;
+package com.mitra.java.adminLogin.service;
 
-import com.adminLogin.model.AdminLoginBean;
+import com.mitra.java.adminLogin.model.AdminLoginBean;
 
 /**
  * @author Imransha This interface used for logging admin pagea

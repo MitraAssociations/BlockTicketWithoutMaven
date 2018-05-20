@@ -21,8 +21,8 @@
         <span class="icon-bar"></span>
       </button>
       <a class="navbar-brand" href="index.jsp">BlockTicket</a>
-    </div>
-
+    </div></div>
+</nav>
     <div id="footer_footer"><%@ include file="footer.jsp"%></div>
 <!-- End footer -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

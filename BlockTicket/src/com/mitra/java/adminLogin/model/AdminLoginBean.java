@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.adminLogin.model;
+package com.mitra.java.adminLogin.model;
 
 /**
  * @author Imransha
